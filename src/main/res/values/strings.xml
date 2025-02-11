@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="str">%s</string>
+    <string name="temperatureprompt">Temperature:</string>
+    <string name="result">%.2f</string>
+    <string name="convertbutton">CONVERT</string>
+</resources>
