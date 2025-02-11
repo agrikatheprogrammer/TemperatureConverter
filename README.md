@@ -1,2 +1,2 @@
-# TemperatureConverter
-- mini app to convert between temperatures (Kelvin, Celsius, Fahrenheit)
+# Temperature Converter Mini App
+- to convert between temperatures (Kelvin, Celsius, Fahrenheit)
